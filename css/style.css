@@ -2,12 +2,13 @@ h1 {
   color: mediumvioletred;
   font-family:fantasy;
   font-size: 50;
-  line-height: .25;
+  line-height: .08;
 }
 
 h2 {
   color: CornflowerBlue;
   font-family: cursive;
+  line-height: 1;
 }
 
 .flashy {
@@ -18,4 +19,9 @@ h2 {
 body {
   background-color: lemonchiffon;
     text-align: center;
+}
+
+p.intro {
+  width: 50%;
+  font-style: sans-sarif;
 }
