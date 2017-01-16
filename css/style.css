@@ -1,14 +1,21 @@
 h1 {
-  text-align: center;
-  color: grey;
+  color: mediumvioletred;
+  font-family:fantasy;
+  font-size: 50;
+  line-height: .25;
 }
 
 h2 {
-  text-align: center;
   color: CornflowerBlue;
+  font-family: cursive;
 }
 
 .flashy {
   color: red;
   font-style: italic;
+}
+
+body {
+  background-color: lemonchiffon;
+    text-align: center;
 }
